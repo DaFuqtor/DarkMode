@@ -14,16 +14,16 @@
 ### Via :beer: [Homebrew Cask](//brew.sh)
 
 ```powershell
-brew cask install dafuqtor/tap/darkmode
+brew install artginzburg/tap/darkmode
 ```
 
-#### Direct Download · **[Latest Release](//github.com/DaFuqtor/DarkMode/releases/latest/download/DarkMode.zip) ([![GitHub release](https://img.shields.io/github/release/dafuqtor/darkmode?label=%20&color=gray)](//github.com/DaFuqtor/DarkMode/releases))**
+#### Direct Download · **[Latest Release](//github.com/artginzburg/DarkMode/releases/latest/download/DarkMode.zip) ([![GitHub release](https://img.shields.io/github/release/artginzburg/darkmode?label=%20&color=gray)](//github.com/artginzburg/DarkMode/releases))**
 
 <br>
 
 <h2 align="right">:mag: Usage</h2>
 
-<p align="right"><kbd>⌘</kbd><kbd>Space</kbd> &nbsp·&nbsp type <code>dark</code> &nbsp·&nbsp hit <kbd>Enter</kbd>&nbsp</p>
+<p align="right"><kbd>⌘</kbd><kbd>Space</kbd> &nbsp·&nbsp type <code>dark</code> or <code>dm</code> &nbsp·&nbsp hit <kbd>Enter</kbd>&nbsp</p>
 
 <img alt="Spotlight" align="right" src="spotlight.png" width="60%">
 
