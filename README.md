@@ -1,37 +1,35 @@
 <div align="center">
-  <img src="icon256.png" width="200" height="200">
-	<h1>Dark Mode</h1>
-	<p>
-		Toggle the <b>macOS</b> dark mode from <b><a href="//support.apple.com/en-us/HT204014">Spotlight Search</a></b>
-	</p>
-	<br>
-	<br>
-	<br>
+<img src="icon256.png" width="200" height="200">
+	
+# Dark Mode
+Toggle the **macOS** dark mode from [**Spotlight Search**](https://support.apple.com/en-us/HT204014)
+
+<br /><br /><br />
 </div>
 
 ## Install
 
-### Via :beer: [Homebrew Cask](//brew.sh)
+### Via [:beer: Homebrew Cask](//brew.sh)
 
 ```powershell
 brew install artginzburg/tap/darkmode
 ```
 
-#### Direct Download · **[Latest Release](//github.com/artginzburg/DarkMode/releases/latest/download/DarkMode.zip) ([![GitHub release](https://img.shields.io/github/release/artginzburg/darkmode?label=%20&color=gray)](//github.com/artginzburg/DarkMode/releases))**
+#### Direct Download · **[Latest Release](//github.com/artginzburg/DarkMode/releases/latest/download/DarkMode.zip) <sub><sub>[![GitHub release](https://img.shields.io/github/release/artginzburg/darkmode?label=%20&color=gray)](//github.com/artginzburg/DarkMode/releases)</sub></sub>**
 
-<br>
+<br />
 
 <h2 align="right">:mag: Usage</h2>
 
 <p align="right"><kbd>⌘</kbd><kbd>Space</kbd> &nbsp·&nbsp type <code>dark</code> or <code>dm</code> &nbsp·&nbsp hit <kbd>Enter</kbd>&nbsp</p>
 
-<img alt="Spotlight" align="right" src="spotlight.png" width="60%">
+<img align="right" alt="Spotlight" src="spotlight.png" width="60%">
 
 ## Related
 
 #### [Dynamic Dark Mode](//apollozhu.github.io/Dynamic-Dark-Mode/)
 
-> The smart, automatic Dark Mode toggle for macOS **Mojave**
+> The smart, automatic Dark Mode toggle for macOS **Mojave+**
 
 #### [dark-mode](//github.com/sindresorhus/dark-mode) binary
 
