@@ -12,7 +12,7 @@ Toggle the **macOS** dark mode from [**Spotlight Search**](https://support.apple
 ### Via [:beer: Homebrew Cask](//brew.sh)
 
 ```powershell
-brew install artginzburg/tap/darkmode
+brew install --no-quarantine artginzburg/tap/darkmode
 ```
 
 #### Direct Download · **[Latest Release](//github.com/artginzburg/DarkMode/releases/latest/download/DarkMode.zip) <sub><sub>[![GitHub release](https://img.shields.io/github/release/artginzburg/darkmode?label=%20&color=gray)](//github.com/artginzburg/DarkMode/releases)</sub></sub>**
